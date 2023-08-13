@@ -1,22 +1,3 @@
-# Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
-
-#### Projeto desenvolvido com conceitos básicos de typescript
-
-### Tecnologias
-- Typescript
-
-### Como rodar o projeto
-
-1 - Clone o repositório
-
-2 - Instale as dependeências
-    
-    npm install
-
-3 - Execute o projeto
-
-    npm run dev
 
 #### Desafios
 [ ] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
